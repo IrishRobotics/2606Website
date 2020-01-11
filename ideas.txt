@@ -1,0 +1,13 @@
+Pages:
+    Previous teams and Past Robots
+    About Us
+        Contact info
+        Mission Statement
+        Sponsors
+    Contribute
+    Meet the Team 
+    Current Challenge
+    Calendar - Signup
+Css:
+    Dark theme / mint theme 
+    Introactive icons
